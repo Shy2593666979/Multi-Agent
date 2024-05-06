@@ -6,7 +6,8 @@
 - 通义千问 API
 - ChatGPT API
 
-如下图：
+截取游戏中一张图，使用matplotlib画图。如下图：
+
 
 ![image](https://github.com/Shy2593666979/Multi-Agent/assets/105286202/1f874832-a36e-4932-979a-c7fa083be6af)
 
